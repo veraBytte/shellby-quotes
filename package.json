@@ -12,5 +12,9 @@
   },
   "keywords": [],
   "author": "Bryan Andres Vera Garcia",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "random-quote": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
